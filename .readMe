@@ -1,0 +1,9 @@
+
+npm i express mongoose passport passport-jwt jsonwebtoken body-parser bcryptjs validator
+npm i -D nodemon
+-----------------------------------------------------------
+git init
+git add .
+git commit -am 'Initiall express server with route file'
+-----------------------------------------------------------
+npm install gravatar
